@@ -2,7 +2,7 @@
 
 **Data Scientist** com foco em Analytics Engineering — construindo sistemas de ML aplicados a Marketing e Vendas Outbound.
 
-Atualmente trabalhando com **propensão, uplift modeling, LTV e atribuição de campanhas** sobre BigQuery + Dataform, integrando modelos XGBoost com pipelines de dados em produção no GCP.
+Atualmente trabalhando com **propensão, uplift modeling, LTV e atribuição de campanhas** sobre VertexAI + BigQuery + Dataform, integrando modelos XGBoost com pipelines de dados em produção no GCP.
 
 ---
 
